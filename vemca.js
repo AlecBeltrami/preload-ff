@@ -18,8 +18,8 @@ const svgImage = document.createElement('img');
 svgImage.id = 'svgImage';
 svgImage.src = 'https://alecbeltrami.github.io/preload-ff/vemca.svg';
 svgImage.style.cssText = `
-    max-width: 100%;
-    max-height: 100%;
+    max-width: 180px;
+    max-height: 180px;
     display: none;
     position: absolute;
     top: 50%;
