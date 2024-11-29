@@ -1,6 +1,6 @@
 // Define o fundo vermelho enquanto a página carrega
 document.body.style.cssText = `
-    background-color: red;
+    background-color: #22398f;
     margin: 0;
     padding: 0;
     overflow: hidden;
